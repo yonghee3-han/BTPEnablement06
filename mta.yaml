@@ -67,7 +67,7 @@ modules:
          target-path: resources
  
   # --------------------  UI -----------------------------------
- - name: RiskManagement60-app
+ - name: RiskManagement06-app
   # ------------------------------------------------------------
    type: html5
    path: app
