@@ -1,0 +1,21 @@
+{
+  "xsappname": "RiskManagement06",
+  "tenant-mode": "dedicated",
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.RiskViewer06",
+      "description": "RiskViewer06"
+    }
+  ],
+  "attributes": [],
+  "role-templates": [
+    {
+      "name": "RiskViewer06",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.RiskViewer06"
+      ],
+      "attribute-references": []
+    }
+  ]
+}
